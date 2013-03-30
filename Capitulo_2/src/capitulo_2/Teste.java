@@ -9,6 +9,8 @@ package capitulo_2;
 *
 * @author PGodinho
 */
-public class VariaveisEx1 {
-    public static void main(String args[]){ }
+public class Capitulo_2 {
+    public static void main(String args[]){
+    
+    }
 }
