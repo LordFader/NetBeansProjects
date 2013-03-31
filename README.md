@@ -9,5 +9,7 @@ Citeforma - 2013
 
 
 
-O Capitulo_2
+<H4>Capítulo_2<H4/>
+VariáveisEX1
+VariáveisEX2
 
